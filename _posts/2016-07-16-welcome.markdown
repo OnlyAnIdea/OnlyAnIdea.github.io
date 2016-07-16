@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Only An Idea!"
+date:   2016-07-16 22:19:37 +0800
+categories: Meta
+---
+这只是一个分享 Idea 的网站。
